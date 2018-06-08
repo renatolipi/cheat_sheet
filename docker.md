@@ -20,7 +20,7 @@ or multiple binding:
 `docker run -d -p 5801:5801 -p 5802:5802 ...`
 
 ### Listing containers:
-`docker stats`
+`docker ps`
 
 ### Shutting down container:
 `docker stop <container_id> -t 1`
